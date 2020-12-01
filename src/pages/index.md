@@ -6,7 +6,9 @@ sections:
     image: images/blue-hive-tech.png
     image_alt: App preview
     title: Technology Consulting Services
-    content: 'Positron Consulting services will super charge your Software Development. '
+    content: >-
+      Super charge your Technology Development with Positron's consulting
+      expertise 
     actions:
       - label: Learn More
         url: /features
