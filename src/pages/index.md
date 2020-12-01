@@ -14,7 +14,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: 'Manged Software Lifecycle '
+    title: Expertise
     subtitle: 'Positevily '
     features:
       - title: The Best Feature of Your Services
