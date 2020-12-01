@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Inmediate Expertise
+    title: Immediate Expertise
     subtitle: 'Positevily '
     features:
       - title: Expertise
