@@ -37,7 +37,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Cool Feature of Your Services
+      - title: Cool Feature of Your ServicesApproach
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
