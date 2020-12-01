@@ -29,7 +29,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Services
+      - title: R&D
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
