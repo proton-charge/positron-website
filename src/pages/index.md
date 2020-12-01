@@ -19,7 +19,7 @@ sections:
     title: Immediate Expertise
     subtitle: 'Positevily '
     features:
-      - title: exp.1
+      - title: Software Development
         image: images/systems-development-life-cycle.png
         image_alt: App preview on a phone and tablet
         content: >-
