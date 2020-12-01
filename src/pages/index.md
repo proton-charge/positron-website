@@ -27,7 +27,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Awesome Feature of Your Services
+      - title: Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
