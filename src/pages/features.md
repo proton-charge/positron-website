@@ -28,7 +28,7 @@ sections:
         primary: true
       - label: View Demo
         url: '#'
-  - title: lorem-ipsum
+  - title: Software Consulting
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
