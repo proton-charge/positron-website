@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: The Positive
     subtitle: 'Positevily '
     features:
       - title: Expertise
