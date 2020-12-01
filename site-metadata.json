@@ -9,6 +9,14 @@
                 "url": "/"
             },
             {
+                "label": "Approach",
+                "url": "lorem-ipsum",
+                "primary": false,
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Services",
                 "url": "/features"
             },
@@ -20,14 +28,6 @@
                 "label": "Contact",
                 "url": "/signup",
                 "primary": true
-            },
-            {
-                "label": "Approach",
-                "url": "lorem-ipsum",
-                "primary": false,
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
