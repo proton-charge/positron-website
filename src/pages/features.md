@@ -50,7 +50,7 @@ sections:
     actions:
       - label: Get Started
         url: '#'
-  - title: lorem-ipsum
+  - title: Quality Assurance
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
