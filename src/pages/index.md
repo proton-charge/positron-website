@@ -19,7 +19,7 @@ sections:
     title: Immediate Expertise
     subtitle: 'Positevily '
     features:
-      - title: Expertise
+      - title: exp.1
         image: images/systems-development-life-cycle.png
         image_alt: App preview on a phone and tablet
         content: >-
