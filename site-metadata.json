@@ -17,10 +17,6 @@
                 "url": "/pricing"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide"
-            },
-            {
                 "label": "Contact",
                 "url": "/signup",
                 "primary": true
