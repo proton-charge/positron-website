@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Software Consulting Services ++
+    title: Technology & Software Consulting Services ++
     content: 'Positron Consulting services will super charge your Software Development. '
     actions:
       - label: Learn More
