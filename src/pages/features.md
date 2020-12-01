@@ -66,4 +66,5 @@ sections:
       - label: Get Started
         url: '#'
 template: landing
+canonical_url: /services
 ---
