@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /expertise
         primary: true
-  - section_id: features
+  - section_id: expertise
     type: section_features
     background: gray
     title: Expertise
