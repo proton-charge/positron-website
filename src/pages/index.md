@@ -39,7 +39,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: ''
+      - title: Software
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
