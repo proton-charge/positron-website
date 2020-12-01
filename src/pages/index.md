@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: 'A Positive charge '
+    title: 'A Positive charge with half '
     subtitle: 'Positevily '
     features:
       - title: Expertise
