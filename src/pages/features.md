@@ -43,13 +43,6 @@ sections:
     background: gray
     actions: []
     type: section_content
-  - section_id: call-to-action
-    type: section_cta
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: '#'
   - title: Quality Assurance
     section_id: lorem-ipsum
     content: >-
@@ -65,5 +58,12 @@ sections:
     background: gray
     actions: []
     type: section_content
+  - section_id: call-to-action
+    type: section_cta
+    title: This Is Call to Action Block!
+    subtitle: This is an optional description for the call to action block.
+    actions:
+      - label: Get Started
+        url: '#'
 template: landing
 ---
