@@ -15,7 +15,7 @@ sections:
     type: section_features
     background: gray
     title: 'Manged Software Lifecycle '
-    subtitle: 'All aspects across the entire software lifecycle '
+    subtitle: 'All aspects across the entire software lifecycle are taken care '
     features:
       - title: The Best Feature of Your Services
         image: images/systems-development-life-cycle.png
