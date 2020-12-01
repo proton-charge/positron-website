@@ -19,7 +19,7 @@ sections:
     title: Expertise
     subtitle: 'Positevily '
     features:
-      - title: The Best Feature of Your Services
+      - title: Expertise
         image: images/systems-development-life-cycle.png
         image_alt: App preview on a phone and tablet
         content: >-
