@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: 'Expertise from '
+    title: Expertise from day 1
     subtitle: 'Positevily '
     features:
       - title: Expertise
