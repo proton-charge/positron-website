@@ -56,7 +56,7 @@ sections:
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
     reviews:
-      - author: 'Claire '
+      - author: Claire Hall
         avatar: images/face1.jpg
         content: >-
           As an IoT company our success depends in great measure in well managed
