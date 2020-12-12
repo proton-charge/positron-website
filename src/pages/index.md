@@ -57,7 +57,7 @@ sections:
       semper libero id sodales. 
     reviews:
       - author: John Doe
-        avatar: images/review1.jpg
+        avatar: images/face1.jpg
         content: >-
           As an IoT company our success depends in great measure in well managed
           data processes. Positron Consulting made it not only possible but also
