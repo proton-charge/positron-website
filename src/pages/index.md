@@ -63,7 +63,7 @@ sections:
           data processes. Positron Consulting made it not only possible but also
           easy.
       - author: Jane Roe
-        avatar: images/review2.jpg
+        avatar: images/face2.jpg
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
