@@ -48,10 +48,12 @@ sections:
         image: images/data-management.png
         image_alt: App user profile preview
         content: >-
-          From BigData to Business Intelligence and AI, we manage all aspects of
-          the lifecycle of data creation, ingestion, transformation and storage.
-          Small or big, structured or unstructured, we make data managment
-          painless
+          Small or big, structured or unstructured, no matter what type of data
+          managment you need,  we make the process painless.
+
+
+          We manage all aspects of the lifecycle of data creation, ingestion,
+          transformation and storage. 
         actions:
           - label: Learn More
             url: /approach
