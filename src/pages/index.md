@@ -60,7 +60,7 @@ sections:
         avatar: images/review1.jpg
         content: >-
           As an IoT company our success depends in great measure in well managed
-          data processes. Positron Consulting made it not onlu possible but also
+          data processes. Positron Consulting made it not only possible but also
           easy.
       - author: Jane Roe
         avatar: images/review2.jpg
