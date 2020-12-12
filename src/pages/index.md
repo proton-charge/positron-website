@@ -78,7 +78,7 @@ sections:
     subtitle: Drop us a line to see how we can do for you!
     actions:
       - label: Get Started
-        url: /signup
+        url: /contact
         primary: true
   - section_id: recent-posts
     type: section_posts
