@@ -59,8 +59,9 @@ sections:
       - author: John Doe
         avatar: images/review1.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          As an IoT company our success depends in great measure in well managed
+          data processes. Positron Consulting made it not onlu possible but also
+          easy.
       - author: Jane Roe
         avatar: images/review2.jpg
         content: >-
