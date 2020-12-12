@@ -37,9 +37,10 @@ sections:
         image: images/incredible-pineapple.png
         image_alt: App users welcoming a new member
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          From well known engineering practices and patterns to the edge of
+          what's known. Our research engineers specialize in transforming the
+          latest available research in Data Science and Machine Learning into
+          direct value through innovative solutions.
         actions:
           - label: Learn More
             url: /approach
