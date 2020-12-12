@@ -44,13 +44,7 @@
         ],
         "has_social": true,
         "social_title": "Community",
-        "social_links": [
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "new_window": true
-            }
-        ],
+        "social_links": [],
         "has_subscribe": true,
         "subscribe_title": "",
         "subscribe_content": "Stay up to date with our latest developments.",
