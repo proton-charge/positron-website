@@ -23,9 +23,13 @@ sections:
         image: images/rainy-zebra.png
         image_alt: App preview on a phone and tablet
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Our teams has experience in several areas of software development and
+          from a variety of industries. We will match the best members to the
+          specific project's needs. 
+
+
+          Backend, Frontend, Mobile, Data, Security and DevOps engineers to get
+          your project spinning in no time.
         actions:
           - label: Learn More
             url: /approach
