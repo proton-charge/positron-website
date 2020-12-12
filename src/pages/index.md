@@ -53,7 +53,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: 'Some of '
+    title: Our client's thoughts
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
