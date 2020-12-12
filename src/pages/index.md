@@ -71,7 +71,9 @@ sections:
           facing solution, Positron's teams went from 0 to 100 in just 7 weeks!
       - author: Patricia Ross
         avatar: images/fake3.jpg
-        content: They took care of all aspects from design to deployment.
+        content: >-
+          They took care of all aspects from design to deployment. A super
+          positive experience.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
