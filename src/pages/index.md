@@ -43,8 +43,10 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          We focus on mitigating friction, avoiding collision to minimize the
-          neutralize negative charges
+          From BigData to Business Intelligence and AI, we manage all aspects of
+          the lifecycle of data creation, ingestion, transformation and storage.
+          Small or big, structured or unstructured, we make data managment
+          painless
         actions:
           - label: Learn More
             url: /approach
