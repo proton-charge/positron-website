@@ -11,7 +11,7 @@ sections:
       expertise 
     actions:
       - label: Learn More
-        url: /features
+        url: /approach
         primary: true
   - section_id: features
     type: section_features
