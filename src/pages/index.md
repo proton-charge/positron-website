@@ -40,7 +40,7 @@ sections:
           - label: Learn More
             url: /approach
       - title: Data Managment
-        image: images/feature3.png
+        image: images/data-management.png
         image_alt: App user profile preview
         content: >-
           From BigData to Business Intelligence and AI, we manage all aspects of
