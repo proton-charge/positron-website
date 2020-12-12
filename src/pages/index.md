@@ -54,9 +54,7 @@ sections:
     type: section_reviews
     background: white
     title: In our client's words
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+    subtitle: ''
     reviews:
       - author: Claire Hall
         avatar: images/face1.jpg
