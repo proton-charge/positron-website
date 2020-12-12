@@ -28,7 +28,7 @@ sections:
           consequat ex.
         actions:
           - label: Learn More
-            url: /features
+            url: /approach
       - title: R&D
         image: images/feature2.png
         image_alt: App users welcoming a new member
