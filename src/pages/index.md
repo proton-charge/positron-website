@@ -77,7 +77,7 @@ sections:
     title: Why wait to super charge your development?
     subtitle: Drop us a line to see how we can do for you!
     actions:
-      - label: Get Started
+      - label: Get in touch
         url: /contact
         primary: true
   - section_id: recent-posts
