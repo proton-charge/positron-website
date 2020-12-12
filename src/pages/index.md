@@ -20,7 +20,7 @@ sections:
     subtitle: 'Positevily '
     features:
       - title: Software Development
-        image: images/software-development (1).png
+        image: images/rainy-zebra.png
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
