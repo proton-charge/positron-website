@@ -67,9 +67,8 @@ sections:
       - author: Rafael Reyes
         avatar: images/face2.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          Due to COVID-19 we had to very quickly develop a complete new customer
+          facing solution, Positron's teams went from 0 to 100 in just 7 weeks!
       - author: Patricia Ross
         avatar: images/fake3.jpg
         content: >-
