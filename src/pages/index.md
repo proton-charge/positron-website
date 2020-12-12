@@ -49,7 +49,7 @@ sections:
         image_alt: App user profile preview
         content: >-
           Small or big, structured or unstructured, no matter what type of data
-          managment you need,  we make the process painless.
+          pipeline you need,  we make the process painless.
 
 
           We manage all aspects of the lifecycle of data creation, ingestion,
