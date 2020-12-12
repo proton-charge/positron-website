@@ -21,10 +21,6 @@
                 "url": "/services"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact",
                 "primary": true
