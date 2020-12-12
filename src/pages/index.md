@@ -20,7 +20,7 @@ sections:
     subtitle: 'Positevily '
     features:
       - title: Software Development
-        image: images/systems-development-life-cycle.png
+        image: images/software-development.png
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
