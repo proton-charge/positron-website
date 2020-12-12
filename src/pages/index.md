@@ -62,7 +62,7 @@ sections:
           As an IoT company our success depends in great measure in well managed
           data processes. Positron Consulting made it not only possible but also
           easy.
-      - author: 'Ralph '
+      - author: Rafael Reyes
         avatar: images/face2.jpg
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
