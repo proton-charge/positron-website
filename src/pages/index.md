@@ -47,7 +47,7 @@ sections:
           neutralize negative charges
         actions:
           - label: Learn More
-            url: /features
+            url: /approach
   - section_id: reviews
     type: section_reviews
     background: white
