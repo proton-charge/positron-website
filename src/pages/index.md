@@ -75,7 +75,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Why wait to super charge your development?
-    subtitle: 'Drop us a line '
+    subtitle: 'Drop us a line to see how '
     actions:
       - label: Get Started
         url: /signup
