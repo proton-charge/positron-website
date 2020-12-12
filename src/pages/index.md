@@ -74,7 +74,7 @@ sections:
           positive experience.
   - section_id: call-to-action
     type: section_cta
-    title: 'Do not wait to super charge your '
+    title: Do not wait to super charge your development
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
