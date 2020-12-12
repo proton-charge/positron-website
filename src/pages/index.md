@@ -53,7 +53,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: In our client's words
+    title: In our client's own words
     subtitle: ''
     reviews:
       - author: Claire Hall
