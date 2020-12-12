@@ -30,7 +30,7 @@ sections:
           - label: Learn More
             url: /approach
       - title: R&D
-        image: images/feature2.png
+        image: images/r&d.png
         image_alt: App users welcoming a new member
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
