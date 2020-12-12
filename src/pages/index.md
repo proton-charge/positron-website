@@ -38,7 +38,7 @@ sections:
           auctor.
         actions:
           - label: Learn More
-            url: /features
+            url: /approach
       - title: Data Managment
         image: images/feature3.png
         image_alt: App user profile preview
