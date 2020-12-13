@@ -48,12 +48,12 @@ sections:
         image: images/data-management.png
         image_alt: Data pipelines
         content: >-
-          Data lakes, small or big, structured or unstructured, no matter what
-          type of data pipeline you need,  we make the process painless.
+          To be at the forefront of an ever changing technologic landscape a
+          quick, responsive and agile attitude is a must.
 
 
-          We manage all aspects of the lifecycle of data creation, ingestion,
-          transformation and storage. 
+          At Positron we never stop learning, adapting and riding the waves of
+          change.
         actions:
           - label: Learn More
             url: /approach
