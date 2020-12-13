@@ -32,7 +32,7 @@ sections:
           your project spinning in no time.
         actions:
           - label: Learn More
-            url: /approach
+            url: /services
       - title: R&D
         image: images/incredible-pineapple.png
         image_alt: Research
