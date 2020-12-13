@@ -51,7 +51,7 @@ sections:
         actions:
           - label: Learn More
             url: /services
-            primary: true
+            primary: false
       - title: Agile and Flexible
         image: images/lean_agile_diagram2.png
         image_alt: Data pipelines
