@@ -1,6 +1,6 @@
 ---
 title: Services
-meta_title: lorem-ipsum
+meta_title: Services | Positron
 meta_description: lorem-ipsum
 canonical_url: /services
 no_index: false
