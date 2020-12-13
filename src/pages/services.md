@@ -75,6 +75,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/QA (1).png
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!
