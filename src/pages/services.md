@@ -12,23 +12,16 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Technology Consulting
     content: >+
-      We cover the entire SDLC (Software Development Life Cycle)  following an
-      Agile methodology. Guiding you at each stage with flexibility and ease.
+      **Supercharge growth, mitigate risk and cut costs**  taping into our end
+      to end expertise to guide you throught all aspects of the adoption of
+      digital technologies.
 
 
-      * Planning
 
-      * Requierements & Analysis
+      From IoT to AI, from mobile to cloud... let your business benefit from how
+      to best use technology and software.
 
-      * Design
 
-      * Implementation
-
-      * Testing
-
-      * Integration & Deployment
-
-      * Mantainance
 
     actions:
       - label: Contact
