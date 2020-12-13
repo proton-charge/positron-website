@@ -55,15 +55,16 @@ sections:
     image: images/code.jpg
   - title: Quality Assurance
     section_id: lorem-ipsum
-    content: >-
+    content: >+
+      **Accelerate time-to-market and minimize risk and costs**
+
+
       Starting with our TDD (Test Driven Approach) and complemented with
       validation and testing during the SDLC, exhaustive coverage control and
       functional and behavioral testing, we provide a comprehensive and complete
       end to end Quality Assurance Process to satisfy the entire development,
       from prototype to production.
 
-
-      **Accelerate time-to-market and minimize risk and costs**
     image_alt: lorem-ipsum
     background: gray
     actions: []
