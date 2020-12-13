@@ -35,7 +35,7 @@ sections:
             url: /approach
       - title: R&D
         image: images/incredible-pineapple.png
-        image_alt: App users welcoming a new member
+        image_alt: Research
         content: >-
           From well known engineering practices and patterns to the edge of
           what's known. Our research engineers specialize in transforming the
