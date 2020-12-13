@@ -19,7 +19,7 @@ sections:
     title: The Positron's Approach
     subtitle: ''
     features:
-      - title: Software Development Expertise
+      - title: Broad Development Expertise
         image: images/sof-dev_small.png
         image_alt: Software Development
         content: >-
