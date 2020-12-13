@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Positron's Expertise
+    title: Positron's Approach
     subtitle: ''
     features:
       - title: Software Development Expertise
