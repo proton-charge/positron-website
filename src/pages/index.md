@@ -52,7 +52,7 @@ sections:
           - label: Learn More
             url: /approach
       - title: Agile and Flexible
-        image: images/data-management.png
+        image: images/lean_agile_diagram2.png
         image_alt: Data pipelines
         content: >-
           To be at the forefront of an ever changing technologic landscape a
