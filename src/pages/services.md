@@ -30,8 +30,9 @@ sections:
   - title: Software Engineering
     section_id: lorem-ipsum
     content: >+
-      We cover the entire SDLC (Software Development Life Cycle)  following an
+      **Totally managed SDLC** (Software Development Life Cycle)  following an
       Agile methodology. Guiding you at each stage with flexibility and ease:
+
 
       * Planning
 
