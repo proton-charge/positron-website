@@ -1,7 +1,7 @@
 ---
 title: Services
 meta_title: Services | Positron
-meta_description: lorem-ipsum
+meta_description: Positron Consulting Service Overview
 canonical_url: /services
 no_index: false
 sections:
