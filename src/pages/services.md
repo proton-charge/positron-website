@@ -52,7 +52,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/code.jpg
+    image: images/sof-engineering.png
   - title: Quality Assurance
     section_id: lorem-ipsum
     content: >+
