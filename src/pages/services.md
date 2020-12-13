@@ -11,7 +11,7 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Technology Consulting
-    content: >-
+    content: >+
       We cover the entire SDLC (Software Development Life Cycle)  following an
       Agile methodology. Guiding you at each stage with flexibility and ease.
 
@@ -30,8 +30,6 @@ sections:
 
       * Mantainance
 
-
-      Minimize pain and maximize ROI!
     actions:
       - label: Contact
         url: /contact
