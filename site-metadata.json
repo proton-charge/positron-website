@@ -10,7 +10,7 @@
             },
             {
                 "label": "About",
-                "url": "/",
+                "url": "/about",
                 "primary": false,
                 "new_window": false,
                 "no_follow": false,
