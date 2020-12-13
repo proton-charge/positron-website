@@ -63,7 +63,7 @@ sections:
           change.
         actions:
           - label: Learn More
-            url: /approach
+            url: /services
   - section_id: reviews
     type: section_reviews
     background: white
