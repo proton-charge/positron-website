@@ -73,7 +73,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Why wait to super charge your development?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Drop us a line to see what we can do for you!
     actions:
       - label: Get Started
         url: '#'
