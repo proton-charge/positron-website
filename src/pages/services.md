@@ -76,6 +76,6 @@ sections:
     subtitle: Drop us a line to see what we can do for you!
     actions:
       - label: Get in touch
-        url: '#'
+        url: /contact
 template: landing
 ---
