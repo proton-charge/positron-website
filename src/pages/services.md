@@ -30,7 +30,7 @@ sections:
       - label: Free Trial
         url: /signup
         primary: true
-      - label: ''
+      - label: Know more!
         url: '#'
   - title: Software Engineering
     section_id: lorem-ipsum
