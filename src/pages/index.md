@@ -19,7 +19,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Software Development
+      - title: Software Development Expertise
         image: images/rainy-zebra.png
         image_alt: Software Development
         content: >-
