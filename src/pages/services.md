@@ -27,7 +27,7 @@ sections:
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
       sed justo tempor condimentum.
     actions:
-      - label: Free Trial
+      - label: Contact
         url: /signup
         primary: true
       - label: Know more!
