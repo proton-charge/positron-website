@@ -21,7 +21,7 @@ sections:
     features:
       - title: Software Development
         image: images/rainy-zebra.png
-        image_alt: App preview on a phone and tablet
+        image_alt: Software Development
         content: >-
           Our teams has experience in several areas of software development and
           from a variety of industries. We will match the best members to the
