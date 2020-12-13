@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: ''
-    subtitle: 'Positevily '
+    subtitle: ''
     features:
       - title: Software Development
         image: images/rainy-zebra.png
