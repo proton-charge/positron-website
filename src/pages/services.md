@@ -75,7 +75,7 @@ sections:
     title: Why wait to super charge your development?
     subtitle: Drop us a line to see what we can do for you!
     actions:
-      - label: Get Started
+      - label: Get in touch
         url: '#'
 template: landing
 ---
