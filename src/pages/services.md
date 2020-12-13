@@ -36,15 +36,25 @@ sections:
         primary: true
   - title: Software Engineering
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      We cover the entire SDLC (Software Development Life Cycle)  following an
+      Agile methodology. Guiding you at each stage with flexibility and ease.
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
 
-      - Lorem ipsum
+      * Planning
 
-      - dolor sit amet
+      * Requierements & Analysis
+
+      * Design
+
+      * Implementation
+
+      * Testing
+
+      * Integration & Deployment
+
+      * Mantainance
+
     image_alt: lorem-ipsum
     background: gray
     actions: []
