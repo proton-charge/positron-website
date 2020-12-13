@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Access our Expertise
+    title: ''
     subtitle: 'Positevily '
     features:
       - title: Software Development
