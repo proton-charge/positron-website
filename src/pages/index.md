@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: What makes us a unique choice
+    title: Unique choice
     subtitle: ''
     features:
       - title: Software Development Expertise
