@@ -20,7 +20,7 @@ sections:
     subtitle: ''
     features:
       - title: Software Development Expertise
-        image: images/rainy-zebra.png
+        image: images/sof-dev_small.png
         image_alt: Software Development
         content: >-
           Our teams has experience in several areas of software development and
