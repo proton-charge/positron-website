@@ -8,7 +8,7 @@ sections:
   - section_id: tech-consulting
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/tech-consultant.png
     image_alt: App preview on a phone and tablet
     title: Technology Consulting
     content: >+
