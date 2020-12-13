@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Unique choice
+    title: Unique Expertise
     subtitle: ''
     features:
       - title: Software Development Expertise
