@@ -69,7 +69,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/QA (1).png
+    image: images/functional-testing2.png
   - section_id: call-to-action
     type: section_cta
     title: Why wait to super charge your development?
