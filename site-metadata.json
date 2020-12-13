@@ -1,7 +1,7 @@
 {
     "palette": "blue",
     "header": {
-        "logo_img": "images/positron-logo_200x200.png",
+        "logo_img": "images/positron-logo_2000x2000.png",
         "has_nav": true,
         "nav_links": [
             {
