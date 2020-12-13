@@ -59,7 +59,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/software-developer-vs-software-engineer.jpg
+    image: images/code.jpg
   - title: Quality Assurance
     section_id: lorem-ipsum
     content: >-
