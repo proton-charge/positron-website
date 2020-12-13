@@ -44,7 +44,7 @@ sections:
         actions:
           - label: Learn More
             url: /approach
-      - title: Data Managment
+      - title: Data Driven
         image: images/data-management.png
         image_alt: Data pipelines
         content: >-
