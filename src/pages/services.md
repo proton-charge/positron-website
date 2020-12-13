@@ -28,7 +28,7 @@ sections:
       sed justo tempor condimentum.
     actions:
       - label: Contact
-        url: /signup
+        url: /contact
         primary: true
       - label: Know more!
         url: '#'
