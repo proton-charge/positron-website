@@ -20,7 +20,7 @@ sections:
     subtitle: ''
     features:
       - title: Broad Development Expertise
-        image: images/sof-dev_small.png
+        image: images/software.png
         image_alt: Software Development
         content: >-
           Our teams has experience in several areas of software development and
