@@ -30,8 +30,6 @@ sections:
       - label: Contact
         url: /contact
         primary: true
-      - label: Know more!
-        url: '#'
   - title: Software Engineering
     section_id: lorem-ipsum
     content: >-
