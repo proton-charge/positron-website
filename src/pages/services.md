@@ -12,20 +12,26 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Technology Consulting
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      We cover the entire SDLC (Software Development Life Cycle)  following an
+      Agile methodology. Guiding you at each stage with flexibility and ease.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      * Planning
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      * Requierements & Analysis
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      * Design
+
+      * Implementation
+
+      * Testing
+
+      * Integration & Deployment
+
+      * Mantainance
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Minimize pain and maximize ROI!
     actions:
       - label: Contact
         url: /contact
