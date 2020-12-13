@@ -38,9 +38,16 @@ sections:
         image_alt: Research
         content: >-
           From well known engineering practices and patterns to the edge of
-          what's known. Our research engineers specialize in transforming the
-          latest available research in Data Science and Machine Learning into
-          direct value through innovative solutions.
+          what's known. 
+
+
+          To be ready to the future requires understanding the latest
+          developments and having the know-how to turn it into real value.
+
+
+          Our research engineers specialize in transforming the latest available
+          advances in computer science into direct value through innovative
+          solutions.
         actions:
           - label: Learn More
             url: /approach
