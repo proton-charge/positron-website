@@ -46,7 +46,7 @@ sections:
             url: /approach
       - title: Data Managment
         image: images/data-management.png
-        image_alt: App user profile preview
+        image_alt: Data pipelines
         content: >-
           Data lakes, small or big, structured or unstructured, no matter what
           type of data pipeline you need,  we make the process painless.
