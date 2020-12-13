@@ -33,6 +33,19 @@ sections:
         actions:
           - label: Learn More
             url: /services
+      - title: Agile and Flexible
+        image: images/lean_agile_diagram2.png
+        image_alt: Data pipelines
+        content: >-
+          To be at the forefront of an ever changing technologic landscape a
+          quick, responsive and agile attitude is a must.
+
+
+          At Positron we never stop learning, adapting and riding the waves of
+          change.
+        actions:
+          - label: Learn More
+            url: /services
       - title: R&D
         image: images/incredible-pineapple.png
         image_alt: Research
@@ -52,19 +65,6 @@ sections:
           - label: Learn More
             url: /services
             primary: false
-      - title: Agile and Flexible
-        image: images/lean_agile_diagram2.png
-        image_alt: Data pipelines
-        content: >-
-          To be at the forefront of an ever changing technologic landscape a
-          quick, responsive and agile attitude is a must.
-
-
-          At Positron we never stop learning, adapting and riding the waves of
-          change.
-        actions:
-          - label: Learn More
-            url: /services
   - section_id: reviews
     type: section_reviews
     background: white
