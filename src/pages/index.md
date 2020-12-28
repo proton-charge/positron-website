@@ -41,7 +41,7 @@ sections:
           quick, responsive and agile attitude is a must.
 
 
-          At Positron we never stop learning, adapting and riding the waves of
+          At UpQuark we never stop learning, adapting and riding the waves of
           change.
         actions:
           - label: Learn More
