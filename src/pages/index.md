@@ -100,6 +100,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: UpQuark Consulting | LLC
-meta_description: 'UpQuark Consulting '
+meta_description: UpQuark Consulting Services
 template: landing
 ---
