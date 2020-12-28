@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: The Positron's Approach
+    title: The UpQuark's Approach
     subtitle: ''
     features:
       - title: Broad Development Expertise
