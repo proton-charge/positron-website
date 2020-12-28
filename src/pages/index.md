@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Technology Consulting Services
     content: >-
-      Super charge your Technology Development with Positron's consulting
+      Super charge your Technology Development with UpQuark's consulting
       expertise 
     actions:
       - label: Learn More
