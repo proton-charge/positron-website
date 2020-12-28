@@ -100,6 +100,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: UpQuark Consulting | LLC
-meta_description: The preview of the Azimuth theme
+meta_description: 'UpQuark Consulting '
 template: landing
 ---
