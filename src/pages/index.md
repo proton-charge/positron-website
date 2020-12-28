@@ -75,13 +75,13 @@ sections:
         avatar: images/face1.jpg
         content: >-
           As an IoT company our success depends in great measure in well managed
-          data processes. Positron Consulting made it not only possible but also
+          data processes. UpQuark Consulting made it not only possible but also
           easy.
       - author: Rafael Reyes
         avatar: images/face2.jpg
         content: >-
           Due to COVID-19 we had to very quickly develop a complete new customer
-          facing solution, Positron's teams went from 0 to 100 in just 7 weeks!
+          facing solution, UpQuark's teams went from 0 to 100 in just 7 weeks!
       - author: Patricia Ross
         avatar: images/fake3.jpg
         content: >-
