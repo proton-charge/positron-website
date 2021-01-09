@@ -1,6 +1,6 @@
 ---
 title: Services
-meta_title: Services | UpQuark C
+meta_title: Services | UpQuark Consultin LLC
 meta_description: Positron Consulting Service Overview
 canonical_url: /services
 no_index: false
