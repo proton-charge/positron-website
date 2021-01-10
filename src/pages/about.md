@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: We are engineers
+subtitle: 'We are engineers, consultants'
 image: images/about-us.png
 image_alt: Team members in a conference room
 template: page
