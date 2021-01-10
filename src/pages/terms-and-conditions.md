@@ -2,7 +2,7 @@
 title: Terms and Conditions
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
-meta_title: lorem-ipsum
+meta_title: Terms & Conditions | UpQuark Consulting LLC
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
