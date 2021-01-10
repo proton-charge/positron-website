@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: 'Dynamism, Cohesiveness, Flexibility and Passion'
-image: images/about.jpg
+image: images/about-us.png
 image_alt: Team members in a conference room
 template: page
 ---
