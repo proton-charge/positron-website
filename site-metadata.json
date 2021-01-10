@@ -30,7 +30,7 @@
     "footer": {
         "logo_img": "images/reQuarks-white.png",
         "tagline": "Positive Charge your Development",
-        "has_nav": false,
+        "has_nav": true,
         "nav_title": "Company",
         "nav_links": [
             {
