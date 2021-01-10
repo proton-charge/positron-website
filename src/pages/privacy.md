@@ -348,7 +348,7 @@ sections:
       request form by clicking here. We will respond to your request within 30
       days.
 
-    image_alt: lorem-ipsum
+    image_alt: ''
     background: gray
     actions: []
     type: section_content
