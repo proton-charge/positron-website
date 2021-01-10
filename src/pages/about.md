@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: 'Dynamism, Cohesiveness, Flexibility and Passion'
+subtitle: We are engineers
 image: images/about-us.png
 image_alt: Team members in a conference room
 template: page
