@@ -2,7 +2,7 @@
 title: ''
 subtitle: 'We are engineers, consultants, curious learners and a tribe of digital nomads'
 image: images/about-us.png
-image_alt: Team members in a conference room
+image_alt: About Us
 template: page
 ---
 A dynamic team of IT specialist with a combined experience of 50+ years in software design and development, IT project managment and advisory roles. We take pride on being passionate about the sector we work in, in understanding what takes for businesses to succeed and to be able to provide strategic advice, in managing IT innitatives and to work hand by hand with your in-house technical staff.
