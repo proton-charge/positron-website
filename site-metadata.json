@@ -43,7 +43,7 @@
                 "url": "/contact"
             }
         ],
-        "has_social": false,
+        "has_social": true,
         "social_title": "Community",
         "social_links": [],
         "has_subscribe": true,
