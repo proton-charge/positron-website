@@ -43,7 +43,7 @@
                 "url": "/contact"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Terms & Conditions",
                 "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": false,
