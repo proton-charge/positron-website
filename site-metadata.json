@@ -46,7 +46,7 @@
         "has_social": false,
         "social_title": "Community",
         "social_links": [],
-        "has_subscribe": true,
+        "has_subscribe": false,
         "subscribe_title": "",
         "subscribe_content": "Stay up to date with our latest developments.",
         "content": "Proton Consulting. All rights reserved.",
