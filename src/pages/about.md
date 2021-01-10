@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: ''
 subtitle: 'We are engineers, consultants, curious learners and a tribe of digital nomads'
 image: images/about-us.png
 image_alt: Team members in a conference room
