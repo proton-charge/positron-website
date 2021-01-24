@@ -100,6 +100,11 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     type: section_posts
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
 meta_title: UpQuark Consulting | LLC
 meta_description: UpQuark Consulting Services
 template: landing
