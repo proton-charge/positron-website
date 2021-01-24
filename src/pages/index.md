@@ -95,10 +95,6 @@ sections:
       - label: Get in touch
         url: /contact
         primary: true
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 meta_title: UpQuark Consulting | LLC
 meta_description: UpQuark Consulting Services
 template: landing
